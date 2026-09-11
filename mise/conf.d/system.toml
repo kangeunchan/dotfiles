@@ -1,0 +1,13 @@
+# ~/.config/mise/conf.d/systems.toml
+[bootstrap.packages]
+"brew:fish" = "latest"
+
+[bootstrap.mise_shell_activate]
+zprofile = "shims"
+zshrc = "activate"
+bash_profile = "shims"
+bashrc = "activate"
+fish = "activate"
+
+[bootstrap.user]
+login_shell = "/opt/homebrew/bin/fish"

@@ -1,0 +1,15 @@
+# ~/.config/mise/conf.d/tools.toml
+[tools]
+colima = "0.10.3"
+docker-cli = '29.7.2'
+docker-compose = '5.4.0'
+lima = '2.2.0'
+lua-language-server = "3.18.2"
+neovim = "0.12.4"
+node = "24.18.0"
+python = "3.13.14"
+tmux = "3.7b"
+uv = "0.11.18"
+go = ["1.25.0", "1.26.5", "1.26.6"]
+watchexec = '2.5.1'
+bazelisk = '1.29.0'
