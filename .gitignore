@@ -1,0 +1,6 @@
+/wireguard/
+/gh/
+/1Password/
+
+/.DS_Store
+**/*.backup.*
