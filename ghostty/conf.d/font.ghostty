@@ -1,0 +1,6 @@
+# Typeface and terminal cell metrics.
+font-family = Menlo
+font-family = Pretendard
+font-size = 14
+
+adjust-cell-height = 0

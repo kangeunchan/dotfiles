@@ -1,0 +1,2 @@
+# Shell and session startup.
+command = shell:$SHELL -lc 'exec mise exec -- tmux new-session -A -s main'

@@ -1,0 +1,28 @@
+# Base colors.
+background = #161616
+foreground = #D0D0D0
+
+# Cursor and selection.
+cursor-color = #D0D0D0
+cursor-text = #161616
+
+selection-background = #393939
+selection-foreground = #F2F2F2
+
+# ANSI palette.
+palette = 0=#262626
+palette = 1=#33B1FF
+palette = 2=#BE95FF
+palette = 3=#42BE65
+palette = 4=#78A9FF
+palette = 5=#82CFFF
+palette = 6=#3DDBD9
+palette = 7=#F2F2F2
+palette = 8=#525252
+palette = 9=#33B1FF
+palette = 10=#BE95FF
+palette = 11=#42BE65
+palette = 12=#78A9FF
+palette = 13=#82CFFF
+palette = 14=#08BDBA
+palette = 15=#FFFFFF

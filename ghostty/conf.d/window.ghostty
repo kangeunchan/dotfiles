@@ -1,0 +1,7 @@
+# Window spacing and decoration.
+window-padding-x = 5
+window-padding-y = 5,5
+window-padding-balance = false
+window-padding-color = extend-always
+
+macos-titlebar-style = hidden

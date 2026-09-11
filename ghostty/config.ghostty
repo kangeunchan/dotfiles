@@ -1,0 +1,7 @@
+# ~/.config/ghostty/config.ghostty
+# Responsibility-specific fragments are loaded in declaration order.
+config-file = ~/.config/ghostty/conf.d/shell.ghostty
+config-file = ~/.config/ghostty/conf.d/font.ghostty
+config-file = ~/.config/ghostty/conf.d/theme.ghostty
+config-file = ~/.config/ghostty/conf.d/window.ghostty
+config-file = ~/.config/ghostty/conf.d/keybindings.ghostty
